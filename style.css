@@ -308,9 +308,3 @@ form .btn2{
 .copyright i{
     color: #008000;
 }
-/* ---------------------------CSS FOR SMALL SCREENS--------------------- */
-@media only screen and (max-with: 600px){
-    #header{
-        background-image: url(image);
-    }
-}
